@@ -1,0 +1,371 @@
+body {
+    background-image: url(cerezo.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.titulo {
+    font-family: 'Dancing Script', cursive;
+    font-size: 100px;
+    text-align: center;
+}
+
+.j {
+    font-family: 'Caveat', cursive;
+    font-size: 50px;
+    text-align: center;
+}
+
+.hg {
+    font-family: 'Caveat', cursive;
+    font-size: 50px;
+    text-align: center;
+}
+
+div {
+    font-family: 'Mukta', sans-serif;
+}
+
+.navigo {
+    margin-left: 40px;
+    background-color: white;
+    border: solid white;
+    width: 500px;
+    padding: 50px;
+    box-shadow: 0 5px 5px 2px rgb(46, 45, 45), 0 5px 5px 2px rgb(46, 45, 45);
+}
+
+.navi {
+    margin-left: 150px;
+}
+
+.uno {
+    text-align: center;
+}
+
+#boton {
+    font-family: 'Mukta', sans-serif;
+    background-color: rgb(240, 86, 112);
+    margin-left: 200px;
+    width: 100px;
+    padding: 10px;
+    border-color: rgb(245, 59, 90);
+    text-decoration: none;
+    text-decoration: none;
+}
+
+#boton:hover {
+    background-color: white;
+}
+
+.legend {
+    font-family: 'Mukta', sans-serif;
+    margin-top: -430px;
+    margin-left: 700px;
+    background-color: white;
+    border: solid white;
+    width: 500px;
+    padding: 50px;
+    box-shadow: 0 5px 5px 2px rgb(46, 45, 45), 0 5px 5px 2px rgb(46, 45, 45);
+}
+
+.legen {
+    margin-left: 150px;
+}
+
+.dos {
+    text-align: center;
+}
+
+#boton2 {
+    font-family: 'Mukta', sans-serif;
+    background-color: rgb(240, 86, 112);
+    margin-left: 200px;
+    width: 100px;
+    padding: 10px;
+    border-color: rgb(245, 59, 90);
+    text-decoration: none;
+}
+
+#boton2:hover {
+    background-color: white;
+}
+
+.xclusive {
+    text-align: center;
+    font-family: 'Mukta', sans-serif;
+    margin-top: 50px;
+    margin-left: 45px;
+    background-color: white;
+    border: solid white;
+    width: 500px;
+    padding: 50px;
+    box-shadow: 0 5px 5px 2px rgb(46, 45, 45), 0 5px 5px 2px rgb(46, 45, 45);
+}
+
+.aromas {
+    margin-top: -430px;
+    margin-left: 700px;
+    text-align: center;
+    font-family: 'Mukta', sans-serif;
+    background-color: white;
+    border: solid white;
+    width: 500px;
+    padding: 50px;
+    box-shadow: 0 5px 5px 2px rgb(46, 45, 45), 0 5px 5px 2px rgb(46, 45, 45);
+}
+
+.x {
+    margin-left: 5x;
+}
+
+#boton3 {
+    font-family: 'Mukta', sans-serif;
+    background-color: rgb(240, 86, 112);
+    margin-left: 5px;
+    width: 100px;
+    padding: 10px;
+    border-color: rgb(245, 59, 90);
+    text-decoration: none;
+}
+
+#boton3:hover {
+    background-color: white;
+}
+
+#boton4 {
+    font-family: 'Mukta', sans-serif;
+    background-color: rgb(240, 86, 112);
+    margin-left: 5px;
+    width: 100px;
+    padding: 10px;
+    border-color: rgb(245, 59, 90);
+    text-decoration: none;
+}
+
+#boton4:hover {
+    background-color: white;
+}
+
+.scent {
+    margin-top: 50px;
+    margin-left: 45px;
+    text-align: center;
+    font-family: 'Mukta', sans-serif;
+    background-color: white;
+    border: solid white;
+    width: 500px;
+    padding: 50px;
+    box-shadow: 0 5px 5px 2px rgb(46, 45, 45), 0 5px 5px 2px rgb(46, 45, 45);
+}
+
+#boton5 {
+    font-family: 'Mukta', sans-serif;
+    background-color: rgb(240, 86, 112);
+    margin-left: 5px;
+    width: 100px;
+    padding: 10px;
+    border-color: rgb(245, 59, 90);
+    text-decoration: none;
+}
+
+#boton5:hover {
+    background-color: white;
+}
+
+.intense {
+    margin-top: -410px;
+    margin-left: 700px;
+    text-align: center;
+    font-family: 'Mukta', sans-serif;
+    background-color: white;
+    border: solid white;
+    width: 500px;
+    padding: 50px;
+    box-shadow: 0 5px 5px 2px rgb(46, 45, 45), 0 5px 5px 2px rgb(46, 45, 45);
+}
+
+#boton6 {
+    font-family: 'Mukta', sans-serif;
+    background-color: rgb(240, 86, 112);
+    margin-left: 5px;
+    width: 100px;
+    padding: 10px;
+    border-color: rgb(245, 59, 90);
+    text-decoration: none;
+}
+
+#boton6:hover {
+    background-color: white;
+}
+
+.diferent {
+    margin-top: 50px;
+    margin-left: 45px;
+    text-align: center;
+    font-family: 'Mukta', sans-serif;
+    background-color: white;
+    border: solid white;
+    width: 500px;
+    padding: 50px;
+    box-shadow: 0 5px 5px 2px rgb(46, 45, 45), 0 5px 5px 2px rgb(46, 45, 45);
+}
+
+#boton7 {
+    font-family: 'Mukta', sans-serif;
+    background-color: rgb(240, 86, 112);
+    margin-left: 5px;
+    width: 100px;
+    padding: 10px;
+    border-color: rgb(245, 59, 90);
+    text-decoration: none;
+}
+
+#boton7:hover {
+    background-color: white;
+}
+
+.orange {
+    margin-top: -410px;
+    margin-left: 700px;
+    text-align: center;
+    font-family: 'Mukta', sans-serif;
+    background-color: white;
+    border: solid white;
+    width: 500px;
+    padding: 50px;
+    box-shadow: 0 5px 5px 2px rgb(46, 45, 45), 0 5px 5px 2px rgb(46, 45, 45);
+}
+
+#boton8 {
+    font-family: 'Mukta', sans-serif;
+    background-color: rgb(240, 86, 112);
+    margin-left: 5px;
+    width: 100px;
+    padding: 10px;
+    border-color: rgb(245, 59, 90);
+    text-decoration: none;
+}
+
+#boton8:hover {
+    background-color: white;
+}
+
+.armani {
+    font-family: 'Caveat', cursive;
+    font-size: 50px;
+    text-align: center;
+}
+
+.acqua {
+    margin-top: 50px;
+    margin-left: 45px;
+    text-align: center;
+    font-family: 'Mukta', sans-serif;
+    background-color: white;
+    border: solid white;
+    width: 500px;
+    padding: 50px;
+    box-shadow: 0 5px 5px 2px rgb(46, 45, 45), 0 5px 5px 2px rgb(46, 45, 45);
+}
+
+#boton9 {
+    font-family: 'Mukta', sans-serif;
+    background-color: rgb(240, 86, 112);
+    margin-left: 5px;
+    width: 100px;
+    padding: 10px;
+    border-color: rgb(245, 59, 90);
+    text-decoration: none;
+}
+
+#boton9:hover {
+    background-color: white;
+}
+
+.si {
+    margin-top: -410px;
+    margin-left: 700px;
+    text-align: center;
+    font-family: 'Mukta', sans-serif;
+    background-color: white;
+    border: solid white;
+    width: 500px;
+    padding: 50px;
+    box-shadow: 0 5px 5px 2px rgb(46, 45, 45), 0 5px 5px 2px rgb(46, 45, 45);
+}
+
+#boton10 {
+    font-family: 'Mukta', sans-serif;
+    background-color: rgb(240, 86, 112);
+    margin-left: 5px;
+    width: 100px;
+    padding: 10px;
+    border-color: rgb(245, 59, 90);
+    text-decoration: none;
+}
+
+#boton10:hover {
+    background-color: white;
+}
+
+.stronger {
+    margin-top: 50px;
+    margin-left: 45px;
+    text-align: center;
+    font-family: 'Mukta', sans-serif;
+    background-color: white;
+    border: solid white;
+    width: 500px;
+    padding: 50px;
+    box-shadow: 0 5px 5px 2px rgb(46, 45, 45), 0 5px 5px 2px rgb(46, 45, 45);
+}
+
+#boton11 {
+    font-family: 'Mukta', sans-serif;
+    background-color: rgb(240, 86, 112);
+    margin-left: 5px;
+    width: 100px;
+    padding: 10px;
+    border-color: rgb(245, 59, 90);
+    text-decoration: none;
+}
+
+#boton11:hover {
+    background-color: white;
+}
+
+.mania {
+    margin-top: -410px;
+    margin-left: 700px;
+    text-align: center;
+    font-family: 'Mukta', sans-serif;
+    background-color: white;
+    border: solid white;
+    width: 500px;
+    padding: 50px;
+    box-shadow: 0 5px 5px 2px rgb(46, 45, 45), 0 5px 5px 2px rgb(46, 45, 45);
+}
+
+#boton12 {
+    font-family: 'Mukta', sans-serif;
+    background-color: rgb(240, 86, 112);
+    margin-left: 5px;
+    width: 100px;
+    padding: 10px;
+    border-color: rgb(245, 59, 90);
+    text-decoration: none;
+}
+
+#boton12:hover {
+    background-color: white;
+}
+
+a {
+    font-family: 'Mukta', sans-serif;
+    background-color: rgb(240, 86, 112);
+    border-color: solid rgb(245, 59, 90);
+    outline: none;
+    text-decoration: none;
+    cursor: pointer;
+}
