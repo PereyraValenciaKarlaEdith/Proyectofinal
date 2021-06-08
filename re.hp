@@ -1,0 +1,33 @@
+<?php
+include("co.php");
+if($conex){
+    echo"todo tuxon";
+
+}
+if(isset($_POST['enviar'])){
+
+    if(strlen($_POST['name'])>=1&&
+    strlen($_POST['direccion'])>= 1 &&
+    strlen($_POST['correo'])>= 1 &&
+    strlen($_POST['telefono'])>=1 &&
+    strlen($_POST['numero']) >=1 &&
+    strlen($_POST['caducidad']) >=1 &&
+    strlen($_POST['tamaño']) >=1 &&
+    strlen($_POST['envase'])>=1){
+        
+        $nombre= trim($_POST['name']);
+        $direc= trim($_POST['direccion']);
+        $email= trim($_POST['correo']);
+        $tel= trim($_POST['telefono']);
+        $numero= trim($_POST['numero']);
+        $caduca= trim($_POST['caducidad']);
+        $tamaño= trim($_POST['tamaño']);
+        $material= trim($_POST['envase']);
+
+        $consulta= "INSERT INTO entrada( nombre, direccion, correo, telefono, tarjeta, vencida, tamaños, materiales) VALUES ('$nombre','$direc','$email', '$tel', '$numero','$caduca','$tamaño','$material')";
+        
+        $resultado= mysqli_query($conex, $consulta);
+
+    }
+}
+?>
